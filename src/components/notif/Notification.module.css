@@ -1,0 +1,12 @@
+.border {
+  height: 48px;
+  width: 48px;
+  border: solid 2px #eaeaea;
+  border-radius: 50px;
+  padding-top: 6px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,11 @@
+.border {
+  border: 1px solid #eaeaea;
+  border-radius: 21px;
+  height: 64px;
+  width: 304px;
+  margin-top: 72px;
+  font-weight: 700;
+  text-align: center;
+  font-size: 17px;
+  padding-top: 16px;
+}

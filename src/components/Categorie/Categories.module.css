@@ -1,0 +1,18 @@
+.border {
+  margin-top: 32px;
+  height: 130px;
+  width: 80px;
+  border: solid 2px;
+  border-radius: 38px;
+}
+.bor {
+  margin: 13px;
+}
+.cat {
+  font-weight: 400;
+  text-align: center;
+  margin-top: 20px;
+  font-size: medium;
+  text-transform: none;
+  letter-spacing: normal;
+}

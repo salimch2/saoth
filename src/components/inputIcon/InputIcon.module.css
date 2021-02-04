@@ -1,0 +1,29 @@
+.inputicons i {
+  position: absolute;
+}
+
+.inputicons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 50px;
+  text-align: center;
+}
+
+.inputfield {
+  height: 48px;
+  width: 310px;
+  width: 100%;
+  padding: 10px;
+  padding-left: 46px;
+  border: none;
+  border: solid 2px #eaeaea;
+  border-radius: 13px;
+}
+input:focus {
+  outline-style: none;
+  border: solid 2px black;
+}

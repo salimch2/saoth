@@ -1,0 +1,30 @@
+.border {
+  margin-top: 32px;
+  height: auto;
+  width: 350px;
+  border: solid 2px #eaeaea;
+  border-radius: 22px;
+}
+.notif {
+  margin: 24px;
+}
+
+.cont {
+  margin-top: 24px;
+  margin-right: 24px;
+}
+.ttt {
+  text-transform: none;
+}
+.prog {
+  width: 134px;
+  height: 20px;
+  /* border: solid 1px beige;
+  border-radius: 38px;
+  background-color: #eaeaea; */
+}
+.progr {
+  width: 40px;
+  height: 6px;
+  background-color: aqua;
+}

@@ -1,0 +1,28 @@
+.border {
+  border: 1px solid #eaeaea;
+  border-radius: 38px;
+  height: 96px;
+  width: 304px;
+}
+.text {
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-right: 0px;
+}
+
+.title {
+  font-size: 16px;
+  letter-spacing: 1px;
+  text-transform: lowercase;
+}
+.mail {
+  font-size: 12px;
+  letter-spacing: 0px;
+  color: #6d6d78;
+  text-transform: lowercase;
+}
+.img {
+  height: 48px;
+  width: 48px;
+  padding-right: 0px;
+}

@@ -1,0 +1,28 @@
+.cartdropdown {
+  position: absolute;
+  width: 320px;
+  height: auto;
+  max-height: 500px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 18px;
+  background-color: #c9e9fc;
+  top: 50px;
+  right: 20px;
+  z-index: 5;
+
+  .emptymessage {
+    font-size: 18px;
+    margin: auto auto;
+    padding: 7px;
+  }
+
+  .cartitems {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+  }
+}
